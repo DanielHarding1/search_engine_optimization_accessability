@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* General Header Styles*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*Body Font and Styling*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Sub Topic Styling*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -115,7 +115,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Image Attributes*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -172,7 +172,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* Sub Heading Styling*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer Styling*/
 .footer {
     padding: 30px;
     clear: both;
