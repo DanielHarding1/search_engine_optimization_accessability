@@ -80,10 +80,13 @@ p {
     padding: 20px;
     clear: both;
     float: right;
-    width: 20%;
+    width: 100%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    display: flex;
+    float: left;
+    position: relative;
 }
 /* Sub Topic Styling*/
 .benefit-lead {
@@ -141,12 +144,14 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    width: max-content;
 }
 
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
+    width: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -156,6 +161,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
+    width: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
